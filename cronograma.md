@@ -4,7 +4,7 @@
 [Semana Acadêmica]: <https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md> "Semana Acadêmica" 
 <!-- [Escola Regional de Engenharia de Software - ERES]: <https://eres-sbc-br.github.io/eres2022/> "Escola Regional de Engenharia de Software - ERES"  -->
 
-[Cronograma turma Matutino](pi_cronograma_mat.pdf "Cronograma turma Matutino")  
+[Cronograma turma: segundas - matutino](pi_cronograma.pdf "Cronograma turma: segundas - matutino")  
 
 ## Eventos
 
