@@ -352,9 +352,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5OGE3ZWItOTQ4MS00YTFiL
 
 ### ViníciusMatiolaTramontin  
 
-Título: Geo-AR: Uma Aplicação para Auxiliar no Ensino da Disciplina de Geometria Analítica Utilizando Realidade Aumentada  
-GIT: https://github.com/dalton-reis/ViniciusMatiolaTramontin  
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY3NzAzNjUtNDhiYy00MDEyLTk3NzctMzRmZDgxNTFhODBj%40thread.v2/0?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d  
+[2025_2_ViníciusMatiolaTramontin.pdf](./TCCs/2025_2_ViníciusMatiolaTramontin.pdf "2025_2_ViníciusMatiolaTramontin.pdf")  
 
 ## 2026_1
 
