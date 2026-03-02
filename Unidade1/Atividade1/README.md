@@ -315,8 +315,8 @@ GIT: https://github.com/dalton-reis/GiancarloCavalli
 
 ### GabrielOssamuRopelattoMori  
 
-Jogo de Conscientização no Trânsito Utilizando a Realidade Virtual Aumentada  
-GIT: https://github.com/dalton-reis/GabrielOssamuRopelattoMori  
+Aplicativo de Conscientização no Trânsito Utilizando Realidade Aumentada
+[2024_2_GabrielOssamuRopelattoMori.pdf](./TCCs/2024_2_GabrielOssamuRopelattoMori.pdf "2024_2_GabrielOssamuRopelattoMori.pdf")  
 
 ### MarcellaCoelhoBritoNunes  
 
