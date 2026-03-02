@@ -35,6 +35,7 @@ Ferramenta de Reconhecimento de Gestos da Mão
 ### JonathanDamasioMedeiros  
 
 Ferramenta de Detecção da Região da Placa de Veículos  
+[2009_1_JonathanDamasioMedeiros.pdf](./TCCs/2009_1_JonathanDamasioMedeiros.pdf "2009_1_JonathanDamasioMedeiros.pdf")  
 
 ### RafaelDattinger  
 
