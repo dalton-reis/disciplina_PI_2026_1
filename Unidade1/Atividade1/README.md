@@ -327,9 +327,8 @@ GIT: https://github.com/dalton-reis/MarcellaCoelhoBritoNunes
 
 ### LarsonKremerVicente  
 
-AR Lab: Aplicativo de Realidade Aumentada para Auxiliar no Aprendizado de Química. 
-GIT: https://github.com/dalton-reis/LarsonKremerVicente  
-GIT Dele: https://github.com/Larsonkv/ArLab  
+AR Lab: Aplicativo de Realidade Aumentada para Auxiliar no Aprendizado dos Principais Equipamentos Utilizados em um Laboratório de Química
+[2025_1_LarsonKremerVicente.pdf](./TCCs/2025_1_LarsonKremerVicente.pdf "2025_1_LarsonKremerVicente.pdf")  
 
 ### LeonardoOlianiFernandes  
 
