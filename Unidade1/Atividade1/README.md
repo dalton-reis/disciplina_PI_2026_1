@@ -276,9 +276,7 @@ GIT: https://github.com/dalton-reis/BrunoHenriqueBorba
 ### GabrielLuisFernandoDeSouza  
 
 Desenvolvimento de uma Biblioteca para o uso do Sensor LiDAR em Dispositivos iOS  
-GIT: https://github.com/dalton-reis/GabrielLuisFernandoDeSouza  
-GitDELE: https://github.com/gabriel-lfs/SampleLiDARApp  
-GitDELE: https://github.com/gabriel-lfs/LidarDepth  
+[2022_1_GabrielLuisFernandoDeSouza.pdf](./TCCs/2022_1_GabrielLuisFernandoDeSouza.pdf "2022_1_GabrielLuisFernandoDeSouza.pdf")  
 
 ### MatheusMahnke  
 
