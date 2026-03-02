@@ -320,8 +320,8 @@ GIT: https://github.com/dalton-reis/GabrielOssamuRopelattoMori
 
 ### MarcellaCoelhoBritoNunes  
 
-ArCorp Explore  
-GIT: https://github.com/dalton-reis/MarcellaCoelhoBritoNunes  
+Body Go: Um Aplicativo de Realidade Aumentada para Ensino de Anatomia Humana
+[2024_2_MarcellaCoelhoBritoNunes.pdf](./TCCs/2024_2_MarcellaCoelhoBritoNunes.pdf "2024_2_MarcellaCoelhoBritoNunes.pdf")  
 
 ## 2025_1
 
