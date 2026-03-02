@@ -260,9 +260,8 @@ Projeto ARL: Uma Biblioteca para Compartilhamento de Objetos Utilizando Realidad
 
 ### BrunoGeislerVigentas  
 
-GIT: https://github.com/dalton-reis/BrunoGeislerVigentas
-GIT dele: https://github.com/bvigentas/RA-ARvore
-https://github.com/dalton-reis/BrunoGeislerVigentas/blob/06c2e3397822e1152ba292e3173ea0374077b588/Textos/bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf  
+FolhAR - Explorando Folhas de Plantas com Realidade Aumentada
+[2021_1_BrunoGeislerVigentas.pdf](./TCCs/2021_1_BrunoGeislerVigentas.pdf "2021_1_BrunoGeislerVigentas.pdf")  
 
 ## 2021_2
 
