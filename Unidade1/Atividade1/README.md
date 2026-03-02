@@ -347,8 +347,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmRhMzgyY2QtYTZhZi00ZjIxL
 ### MariaClaraFranca  
 
 Espelho Virtual Interativo para Auxílio na Escolha de Looks e na Consultoria de Imagem  
-GIT: https://github.com/dalton-reis/MariaClaraFranca  
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5OGE3ZWItOTQ4MS00YTFiLTg4OTktMTlkMGNiZGI5MTNk%40thread.v2/0?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d  
+[2025_2_MariaClaraFranca.pdf](./TCCs/2025_2_MariaClaraFranca.pdf "2025_2_MariaClaraFranca.pdf")  
 
 ### ViníciusMatiolaTramontin  
 
