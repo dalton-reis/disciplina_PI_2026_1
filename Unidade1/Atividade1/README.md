@@ -16,9 +16,9 @@ Protótipo um Software de Mapeamento Automático (AM) / Gerência de Facilidades
 Sistema Óptico para Identificação de Veículos em Estradas  
 [2008_2_DanielSantos.pdf](./TCCs/2008_2_DanielSantos.pdf "2008_2_DanielSantos.pdf")  
 [2008_2_DanielSantos_Slides.pdf](./TCCs/2008_2_DanielSantos_Slides.pdf "2008_2_DanielSantos_Slides.pdf")  
-[2008_2_DanielSantos_1.AVI](./TCCs/2008_2_DanielSantos_1.AVI "2008_2_DanielSantos_1.AVI")  
-[2008_2_DanielSantos_2.AVI](./TCCs/2008_2_DanielSantos_2.AVI "2008_2_DanielSantos_2.AVI")  
-[2008_2_DanielSantos_3.AVI](./TCCs/2008_2_DanielSantos_3.AVI "2008_2_DanielSantos_3.AVI")  
+[2008_2_DanielSantos_1.mp4](./TCCs/2008_2_DanielSantos_1.mp4 "2008_2_DanielSantos_1.mp4")  
+[2008_2_DanielSantos_2.mp4](./TCCs/2008_2_DanielSantos_2.mp4 "2008_2_DanielSantos_2.mp4")  
+[2008_2_DanielSantos_3.mp4](./TCCs/2008_2_DanielSantos_3.mp4 "2008_2_DanielSantos_3.mp4")  
 
 ### RodrigoBambineti  
 
@@ -54,7 +54,7 @@ Visualizador de Imagens Radiológicas 2D para iPhone
 
 Sistema de Tracking de Objetos a Partir de Várias Câmeras  
 [2010_2_AndreLuisBelingRosa.pdf](./TCCs/2010_2_AndreLuisBelingRosa.pdf "2010_2_AndreLuisBelingRosa.pdf")  
-[2010_2_AndreLuisBelingRosa.m4v](./TCCs/2010_2_AndreLuisBelingRosa.m4v "2010_2_AndreLuisBelingRosa.m4v")  
+[2010_2_AndreLuisBelingRosa.mp4](./TCCs/2010_2_AndreLuisBelingRosa.mp4 "2010_2_AndreLuisBelingRosa.mp4")  
 
 ### EdersonJose
 
@@ -65,7 +65,7 @@ Protótipo de um Sistema de Monitoração utilizando Circuito Fechado de Televis
 
 Um Estudo sobre Realidade Aumentada para a Plataforma Android  
 [2010_2_GabrielaTintiVasselai.pdf](./TCCs/2010_2_GabrielaTintiVasselai.pdf "2010_2_GabrielaTintiVasselai.pdf")  
-[2010_2_GabrielaTintiVasselai.m4v](./TCCs/2010_2_GabrielaTintiVasselai.m4v "2010_2_GabrielaTintiVasselai.m4v")  
+[2010_2_GabrielaTintiVasselai.mp4](./TCCs/2010_2_GabrielaTintiVasselai.mp4 "2010_2_GabrielaTintiVasselai.mp4")  
 
 ## 2011_2
 
@@ -73,13 +73,13 @@ Um Estudo sobre Realidade Aumentada para a Plataforma Android
 
 API para Transformação de Imagem em Cartum Utilizando Plataforma iOS  
 [2011_2_ChristianHess.pdf](./TCCs/2011_2_ChristianHess.pdf "2011_2_ChristianHess.pdf")  
-[2011_2_ChristianHess.m4v](./TCCs/2011_2_ChristianHess.m4v "2011_2_ChristianHess.m4v")  
+[2011_2_ChristianHess.mp4](./TCCs/2011_2_ChristianHess.mp4 "2011_2_ChristianHess.mp4")  
 
 ### JonathanHess  
 
 Explorando Modelo Virtuais 3D com Realidade Aumentada no SDK do iPhone  
 [2011_2_JonathanHess.pdf](./TCCs/2011_2_JonathanHess.pdf "2011_2_JonathanHess.pdf")  
-[2011_2_JonathanHess.m4v](./TCCs/2011_2_JonathanHess.m4v "2011_2_JonathanHess.m4v")  
+[2011_2_JonathanHess.mp4](./TCCs/2011_2_JonathanHess.mp4 "2011_2_JonathanHess.mp4")  
 
 ### PauloCesarMeurer  
 
@@ -98,7 +98,7 @@ Visualizador de Imagens 360 Graus Interativa na Plataforma Android
 
 Protótipo de Software para Autenticação Biométrica Baseada na Estrutura da Íris em Dispositivos Móveis  
 [2012_1_MatheusLuanKrueger.pdf](./TCCs/2012_1_MatheusLuanKrueger.pdf "2012_1_MatheusLuanKrueger.pdf")  
-[2012_1_MatheusLuanKrueger.m4v](./TCCs/2012_1_MatheusLuanKrueger.m4v "2012_1_MatheusLuanKrueger.m4v")  
+[2012_1_MatheusLuanKrueger.mp4](./TCCs/2012_1_MatheusLuanKrueger.mp4 "2012_1_MatheusLuanKrueger.mp4")  
 
 ## 2012_2
 
@@ -119,7 +119,7 @@ IAR 2.0: API Otimizada para Aplicações de Entretenimento em Realidade Aumentad
 
 Visualizador Volumétrico de Imagens DICOM para iOS  
 [2013_1_MarceloMataOliveira.pdf](./TCCs/2013_1_MarceloMataOliveira.pdf "2013_1_MarceloMataOliveira.pdf")  
-[2013_1_MarceloMataOliveira.mov](./TCCs/2013_1_MarceloMataOliveira.mov "2013_1_MarceloMataOliveira.mov")  
+[2013_1_MarceloMataOliveira.mp4](./TCCs/2013_1_MarceloMataOliveira.mp4 "2013_1_MarceloMataOliveira.mp4")  
 [2013_1_MarceloMataOliveira_378D7331](./TCCs/2013_1_MarceloMataOliveira_378D7331/ "2013_1_MarceloMataOliveira_378D7331")  
 
 ## 2013_2
@@ -136,7 +136,7 @@ Protótipo de um Visualizador Volumétrico de Imagens DICOM na Plataforma Androi
 
 Mapa Virtual 3D da FURB na Plataforma Android  
 [2015_1_MarcusViniciusPitz.pdf](./TCCs/2015_1_MarcusViniciusPitz.pdf "2015_1_MarcusViniciusPitz.pdf")  
-[2015_1_MarcusViniciusPitz.mov](./TCCs/2015_1_MarcusViniciusPitz.mov "2015_1_MarcusViniciusPitz.mov")  
+[2015_1_MarcusViniciusPitz.mp4](./TCCs/2015_1_MarcusViniciusPitz.mp4 "2015_1_MarcusViniciusPitz.mp4")  
 
 ## 2015_2
 
