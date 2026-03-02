@@ -254,7 +254,7 @@ ECOS-RA: Simulador de Ecossistemas Usando Realidade Aumentada
 ### MaiconSantosSilva  
 
 Projeto ARL: Uma Biblioteca para Compartilhamento de Objetos Utilizando Realidade Aumentada  
-[2019_2_ MaiconSantosSilva.pdf](./TCCs/2019_2_ MaiconSantosSilva.pdf "2019_2_ MaiconSantosSilva.pdf")  
+[2019_2_MaiconSantosSilva.pdf](./TCCs/2019_2_MaiconSantosSilva.pdf "2019_2_MaiconSantosSilva.pdf")  
 
 ## 2021_1
 
