@@ -1,6 +1,25 @@
 # TCCs
 
-Entre esses [Trabalhos de Conclusão de Curso (TCC)](./TCCs/ "TCCs") da FURB, separe quais somente **usam** e **implementam** rotinas de Processamento de Imagens (PI). Para os TCCs do grupo **usam**, comente como PI foi utilizada. Já para o grupo **implementam**, além de comentar como PI foi utilizada, tente identificar qual linguagem de programação foi usada, se usou alguma biblioteca, quais dados foram utilizados, e se utilizou algum hardware *dedicado*, e quais itens do [Plano de Ensino](./planoEnsino.md "Plano de Ensino") foram utilizados.
+Entre esses [Trabalhos de Conclusão de Curso (TCC)](./TCCs/ "TCCs") da FURB, separe quais somente **usam** e **implementam** rotinas de Processamento de Imagens (PI). Para os TCCs do grupo **usam**, comente como PI foi utilizada. Já para o grupo **implementam**, além de comentar como PI foi utilizada, tente identificar qual linguagem de programação foi usada, se usou alguma biblioteca, quais dados foram utilizados, e se utilizou algum hardware *dedicado*, e quais itens do [Plano de Ensino](./planoEnsino.md "Plano de Ensino") foram utilizados.  
+
+O que deve ser feito:
+
+- prepare uma apresentação de no máximo 20 minutos
+- escolha a melhor forma de apresentar o conteúdo usando slides, animações, vídeos, exemplos práticos etc.
+  - inicie a apresentação explicando o TCC em si
+  - identifique se o TCC **usa** e/ou **implementa** PI
+  - depois demonstre esse pontos:
+    - linguagem de programação usada
+    - usou alguma biblioteca, artefato etc.
+    - usou algum hardware *dedicado*
+    - quais dados foram usados:
+      - tipo: raster e/ou vetorial
+      - dimensão: 2D, 3D ou ND
+      - referência: absoluta e/ou relativa
+      - series temporais
+  - tente mensurar se o tema do TCC ainda seria válido para uma pesquisa e/ou uso em um novo TCC atualmente
+
+em caso de dúvida, converse com o professor.
 
 ## 1999_2
 
