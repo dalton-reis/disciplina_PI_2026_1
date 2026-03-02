@@ -297,7 +297,7 @@ GIT: https://github.com/dalton-reis/GuilhermeBarth
 ### BrunoRicardoJunkes  
 
 Explorando a Lógica de Programação Através de um Jogo com Auxílio da Realidade Aumentada  
-GIT: https://github.com/dalton-reis/BrunoRicardoJunkes  
+[2023_2_BrunoRicardoJunkes.pdf](./TCCs/2023_2_BrunoRicardoJunkes.pdf "2023_2_BrunoRicardoJunkes.pdf")  
 
 ### JulioVicenteBrych  
 
