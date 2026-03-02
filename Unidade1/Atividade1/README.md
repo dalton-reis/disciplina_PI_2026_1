@@ -301,8 +301,8 @@ GIT: https://github.com/dalton-reis/BrunoRicardoJunkes
 
 ### JulioVicenteBrych  
 
-Experimentação do Uso de Realidade Aumentada e Leap Motion para Inspecionar Modelos 3D na Exposição de História Natural Fritz Müller - FURB  
-GIT: https://github.com/gcgfurb/JulioVicenteBrych  
+FossilAR: Explorando a Interação Tátil em Modelos 3D de Fósseis Através da Realidade Aumentada
+[2023_2_JulioVicenteBrych.pdf](./TCCs/2023_2_JulioVicenteBrych.pdf "2023_2_JulioVicenteBrych.pdf")  
 
 ## 2024_1
 
