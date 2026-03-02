@@ -283,7 +283,7 @@ GitDELE: https://github.com/gabriel-lfs/LidarDepth
 ### MatheusMahnke  
 
 Arquitetura para Navegação Autônoma Utilizando Drones  
-GIT: https://github.com/dalton-reis/MatheusMahnke  
+[2022_1_MatheusMahnke.pdf](./TCCs/2022_1_MatheusMahnke.pdf "2022_1_MatheusMahnke.pdf")  
 
 ## 2022_2
 
