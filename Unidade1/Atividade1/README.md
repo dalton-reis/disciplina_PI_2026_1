@@ -332,8 +332,8 @@ AR Lab: Aplicativo de Realidade Aumentada para Auxiliar no Aprendizado dos Princ
 
 ### LeonardoOlianiFernandes  
 
-Aplicativo do Museu Assistivo  
-GIT: https://github.com/dalton-reis/LeonardoOlianiFernandes  
+Expofritz Acessível: Aplicativo para Pessoas com Deficiência Visual
+[2025_1_LeonardoOlianiFernandes.pdf](./TCCs/2025_1_LeonardoOlianiFernandes.pdf "2025_1_LeonardoOlianiFernandes.pdf")  
 
 ## 2025_2
 
