@@ -2,6 +2,8 @@
 
 ## Equipe_1
 
+Integrantes: Bernardo Chiamolera, Gustavo Alexandre Fernandes e Letícia Fruet
+
 AllanMilbratzCamargo  
 LucasEduardoSchlogl  
 GabrielaBonifacioSena  
@@ -13,6 +15,8 @@ RodrigoBambineti
 PauloCesarMeurer  
 
 ## Equipe_2
+
+Integrantes: Aline Sabel e Henrique André Oneda
 
 MarceloMataOliveira  
 LeonardoOlianiFernandes  
@@ -26,6 +30,8 @@ JulioVicenteBrych
 
 ## Equipe_3
 
+Integrantes: Bruno Cardoso e Yuri Gralha
+
 GabrielaTintiVasselai  
 GuilhermeBarth  
 AriEliasDaSilvaJunior  
@@ -37,6 +43,8 @@ RicardoFilipeReiter
 JorgeLuisItenJunior  
 
 ## Equipe_4
+
+Integrantes: Grégori Pintarelli, Jaqueline Klegin e Matheus Eduardo dos Santos
 
 RafaelLopesEscobar  
 MaiconSantosSilva  
@@ -50,6 +58,8 @@ ChristianHess
 
 ## Equipe_5
 
+Integrantes: Matheus Gamba De Oliveira, Thierry Henry Zancanaro da Silva e Vinícius Estrázulas Mattos
+
 DanielSantos  
 GiancarloCavalli  
 JonathanHess  
@@ -61,6 +71,8 @@ GuilhermeMuriloRosa
 BrunoRicardoJunkes  
 
 ## Equipe_6
+
+Ingtegrantes: Daniela Rayane da Silva e Nycolly Regina Gomes de Miranda
 
 EduardoCoelho
 JulioCesarSantos  
