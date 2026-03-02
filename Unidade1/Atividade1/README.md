@@ -308,8 +308,8 @@ GIT: https://github.com/gcgfurb/JulioVicenteBrych
 
 ### GiancarloCavalli  
 
-Realidade Aumentada Aplicada ao Ensino: Ligações Químicas em um Ambiente Virtual Interativo  
-GIT: https://github.com/dalton-reis/GiancarloCavalli  
+QuimicAR - Desenvolvimento de Aplicativo de Realidade Aumentada para Auxílio ao Ensino de Ligações e Reações Químicas
+[2024_1_GiancarloCavalli.pdf](./TCCs/2024_1_GiancarloCavalli.pdf "2024_1_GiancarloCavalli.pdf")  
 
 ## 2024_2
 
