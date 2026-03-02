@@ -30,6 +30,7 @@ Ferramenta de Reconhecimento de Gestos da Mão
 
 ### EduardoCoelho
 
+Mosaicos de Imagens Planares
 [2009_1_EduardoCoelho.pdf](./TCCs/2009_1_EduardoCoelho.pdf "2009_1_EduardoCoelho.pdf")  
 
 ### JonathanDamasioMedeiros  
