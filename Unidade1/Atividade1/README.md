@@ -358,11 +358,10 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY3NzAzNjUtNDhiYy00MDEyL
 
 ## 2026_1
 
+### AriEliasDaSilvaJunior  
+
+[2026_1_AriEliasDaSilvaJunior.pdf](./TCCs/2026_1_AriEliasDaSilvaJunior.pdf "2026_1_AriEliasDaSilvaJunior.pdf")  
+
 ### LuisFelipeDeCastilho  
 
 [2026_1_LuisFelipeDeCastilho.pdf](./TCCs/2026_1_LuisFelipeDeCastilho.pdf "2026_1_LuisFelipeDeCastilho.pdf")  
-
-### AriEliasDaSilvaJunior  
-
-O Uso da Realidade Aumentada para Ensino Intuitivo Sobre Formações e Funções Táticas do Futebol  
-GIT: https://github.com/dalton-reis/AriEliasDaSilvaJunior  
