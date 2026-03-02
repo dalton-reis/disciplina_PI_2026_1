@@ -30,7 +30,7 @@ Protótipo um Software de Mapeamento Automático (AM) / Gerência de Facilidades
 
 ## 2008_2
 
-### DanielSantos  
+### Daniel dos Santos  
 
 Sistema Óptico para Identificação de Veículos em Estradas  
 [2008_2_DanielSantos.pdf](./TCCs/2008_2_DanielSantos.pdf "2008_2_DanielSantos.pdf")  
@@ -39,7 +39,7 @@ Sistema Óptico para Identificação de Veículos em Estradas
 [2008_2_DanielSantos_2.mp4](./TCCs/2008_2_DanielSantos_2.mp4 "2008_2_DanielSantos_2.mp4")  
 [2008_2_DanielSantos_3.mp4](./TCCs/2008_2_DanielSantos_3.mp4 "2008_2_DanielSantos_3.mp4")  
 
-### RodrigoBambineti  
+### Rodrigo Bambineti  
 
 Ferramenta de Reconhecimento de Gestos da Mão  
 [2008_2_RodrigoBambineti.pdf](./TCCs/2008_2_RodrigoBambineti.pdf "2008_2_RodrigoBambineti.pdf")  
@@ -47,42 +47,42 @@ Ferramenta de Reconhecimento de Gestos da Mão
 
 ## 2009_1
 
-### EduardoCoelho
+### Eduardo Coelho
 
 Mosaicos de Imagens Planares
 [2009_1_EduardoCoelho.pdf](./TCCs/2009_1_EduardoCoelho.pdf "2009_1_EduardoCoelho.pdf")  
 
-### JonathanDamasioMedeiros  
+### Jonathan Damásio Medeiros  
 
 Ferramenta de Detecção da Região da Placa de Veículos  
 [2009_1_JonathanDamasioMedeiros.pdf](./TCCs/2009_1_JonathanDamasioMedeiros.pdf "2009_1_JonathanDamasioMedeiros.pdf")  
 
-### RafaelDattinger  
+### Rafael Dattinger  
 
 Ferramenta para Detecção de Fadiga em Motoristas Baseada na Monitoração dos Olhos  
 [2009_1_RafaelDattinger.pdf](./TCCs/2009_1_RafaelDattinger.pdf "2009_1_RafaelDattinger.pdf")  
 
 ## 2010_1
 
-### MarwinRoepke  
+### Marwin Roepke  
 
 Visualizador de Imagens Radiológicas 2D para iPhone  
 [2010_1_MarwinRoepke.pdf](./TCCs/2010_1_MarwinRoepke.pdf "2010_1_MarwinRoepke.pdf")  
 
 ## 2010_2
 
-### AndreLuisBelingRosa  
+### André Luís Beling da Rosa  
 
 Sistema de Tracking de Objetos a Partir de Várias Câmeras  
 [2010_2_AndreLuisBelingRosa.pdf](./TCCs/2010_2_AndreLuisBelingRosa.pdf "2010_2_AndreLuisBelingRosa.pdf")  
 [2010_2_AndreLuisBelingRosa.mp4](./TCCs/2010_2_AndreLuisBelingRosa.mp4 "2010_2_AndreLuisBelingRosa.mp4")  
 
-### EdersonJose
+### Ederson José
 
 Protótipo de um Sistema de Monitoração utilizando Circuito Fechado de Televisão (CFTV)  
 [2010_2_EdersonJose.pdf](./TCCs/2010_2_EdersonJose.pdf "2010_2_EdersonJose.pdf")  
 
-### GabrielaTintiVasselai  
+### Gabriela Tinti Vasselai  
 
 Um Estudo sobre Realidade Aumentada para a Plataforma Android  
 [2010_2_GabrielaTintiVasselai.pdf](./TCCs/2010_2_GabrielaTintiVasselai.pdf "2010_2_GabrielaTintiVasselai.pdf")  
@@ -90,32 +90,32 @@ Um Estudo sobre Realidade Aumentada para a Plataforma Android
 
 ## 2011_2
 
-### ChristianHess  
+### Christian Hess  
 
 API para Transformação de Imagem em Cartum Utilizando Plataforma iOS  
 [2011_2_ChristianHess.pdf](./TCCs/2011_2_ChristianHess.pdf "2011_2_ChristianHess.pdf")  
 [2011_2_ChristianHess.mp4](./TCCs/2011_2_ChristianHess.mp4 "2011_2_ChristianHess.mp4")  
 
-### JonathanHess  
+### Jonathan Hess  
 
 Explorando Modelo Virtuais 3D com Realidade Aumentada no SDK do iPhone  
 [2011_2_JonathanHess.pdf](./TCCs/2011_2_JonathanHess.pdf "2011_2_JonathanHess.pdf")  
 [2011_2_JonathanHess.mp4](./TCCs/2011_2_JonathanHess.mp4 "2011_2_JonathanHess.mp4")  
 
-### PauloCesarMeurer  
+### Paulo Cesar Meurer  
 
 Uma Biblioteca de Realidade Aumentada para a Plataforma iOS  
 [2011_2_PauloCesarMeurer.pdf](./TCCs/2011_2_PauloCesarMeurer.pdf "2011_2_PauloCesarMeurer.pdf")  
 
 ## 2012_1
 
-### JorgeLuisItenJunior  
+### Jorge Luis Iten Júnior  
 
 Visualizador de Imagens 360 Graus Interativa na Plataforma Android  
 [2012_1_JorgeLuisItenJunior.pdf](./TCCs/2012_1_JorgeLuisItenJunior.pdf "2012_1_JorgeLuisItenJunior.pdf")  
 [2012_1_JorgeLuisItenJunior.mp4](./TCCs/2012_1_JorgeLuisItenJunior.mp4 "2012_1_JorgeLuisItenJunior.mp4")  
 
-### MatheusLuanKrueger  
+### Matheus Luan Krueger  
 
 Protótipo de Software para Autenticação Biométrica Baseada na Estrutura da Íris em Dispositivos Móveis  
 [2012_1_MatheusLuanKrueger.pdf](./TCCs/2012_1_MatheusLuanKrueger.pdf "2012_1_MatheusLuanKrueger.pdf")  
@@ -123,20 +123,20 @@ Protótipo de Software para Autenticação Biométrica Baseada na Estrutura da �
 
 ## 2012_2
 
-### MarcoAurelioCaramori  
+### Marco Aurélio Caramori  
 
 Protótipo de Software para Leitura Labial  
 [2012_2_MarcoAurelioCaramori.pdf](./TCCs/2012_2_MarcoAurelioCaramori.pdf "2012_2_MarcoAurelioCaramori.pdf")  
 
 ## 2013_1
 
-### AllanMilbratzCamargo  
+### Állan Milbratz de Camargo  
 
 IAR 2.0: API Otimizada para Aplicações de Entretenimento em Realidade Aumentada na Plataforma iOS  
 [2013_1_AllanMilbratzCamargo.pdf](./TCCs/2013_1_AllanMilbratzCamargo.pdf "2013_1_AllanMilbratzCamargo.pdf")  
 [2013_1_AllanMilbratzCamargo.mp4](./TCCs/2013_1_AllanMilbratzCamargo.mp4 "2013_1_AllanMilbratzCamargo.mp4")  
 
-### MarceloMataOliveira  
+### Marcelo da Mata Oliveira  
 
 Visualizador Volumétrico de Imagens DICOM para iOS  
 [2013_1_MarceloMataOliveira.pdf](./TCCs/2013_1_MarceloMataOliveira.pdf "2013_1_MarceloMataOliveira.pdf")  
@@ -145,7 +145,7 @@ Visualizador Volumétrico de Imagens DICOM para iOS
 
 ## 2013_2
 
-### JonatasDanielHermann  
+### Jonatas Daniel Hermann  
 
 Protótipo de um Visualizador Volumétrico de Imagens DICOM na Plataforma Android  
 [2013_2_JonatasDanielHermann.pdf](./TCCs/2013_2_JonatasDanielHermann.pdf "2013_2_JonatasDanielHermann.pdf")  
@@ -153,7 +153,7 @@ Protótipo de um Visualizador Volumétrico de Imagens DICOM na Plataforma Androi
 
 ## 2015_1
 
-### MarcusViniciusPitz  
+### Marcus Vinícius Pitz  
 
 Mapa Virtual 3D da FURB na Plataforma Android  
 [2015_1_MarcusViniciusPitz.pdf](./TCCs/2015_1_MarcusViniciusPitz.pdf "2015_1_MarcusViniciusPitz.pdf")  
@@ -161,7 +161,7 @@ Mapa Virtual 3D da FURB na Plataforma Android
 
 ## 2015_2
 
-### JulioCesarSantos  
+### Júlio César dos Santos  
 
 VisEdu: Aplicativo de Realidade Aumentada Usando Objetos Interativos  
 [2015_2_JulioCesarSantos.pdf](./TCCs/2015_2_JulioCesarSantos.pdf "2015_2_JulioCesarSantos.pdf")  
@@ -169,12 +169,12 @@ VisEdu: Aplicativo de Realidade Aumentada Usando Objetos Interativos
 
 ## 2016_1
 
-### AntonioMarcoSilva  
+### Antônio Marco da Silva  
 
 VisEdu: Interface de Usuário Tangível Utilizando Realidade Aumentada e Unity  
 [2016_1_AntonioMarcoSilva.pdf](./TCCs/2016_1_AntonioMarcoSilva.pdf "2016_1_AntonioMarcoSilva.pdf")  
 
-### VivianLimaPanzenhagen  
+### Vivian de Lima Panzenhagen  
 
 VisEdu: Jogo de Realidade Aumentada de Letras com Conteúdo Dinâmico  
 [2016_1_VivianLimaPanzenhagen.pdf](./TCCs/2016_1_VivianLimaPanzenhagen.pdf "2016_1_VivianLimaPanzenhagen.pdf")  
@@ -182,62 +182,62 @@ VisEdu: Jogo de Realidade Aumentada de Letras com Conteúdo Dinâmico
 
 ## 2017_1
 
-### EvandroMatheusSchmitz  
+### Evandro Matheus Schmitz  
 
 Desenvolvimento de uma Ferramenta para Auxiliar no Ensino do Sistema Solar Utilizando Realidade Aumentada  
 [2017_1_EvandroMatheusSchmitz.pdf](./TCCs/2017_1_EvandroMatheusSchmitz.pdf "2017_1_EvandroMatheusSchmitz.pdf")  
 [2017_1_EvandroMatheusSchmitz.mp4](./TCCs/2017_1_EvandroMatheusSchmitz.mp4 "2017_1_EvandroMatheusSchmitz.mp4")  
 
-### PedroHenriqueSchmitt  
+### Pedro Henrique Schmitt  
 
 Jogo de Sinuca Virtual com Realidade Aumentada  
 [2017_1_PedroHenriqueSchmitt.pdf](./TCCs/2017_1_PedroHenriqueSchmitt.pdf "2017_1_PedroHenriqueSchmitt.pdf")  
 [2017_1_PedroHenriqueSchmitt](./TCCs/2017_1_PedroHenriqueSchmitt/ "2017_1_PedroHenriqueSchmitt")  
 
-### RonanGuimaraesKraemer  
+### Ronan Guimarães Kraemer  
 
 Tecnologia Assistiva: Tornando Jogo de Mesa Acessível para Cegos com Auxílio de Aplicativo Móvel de Reconhecimento de Imagem  
 [2017_1_RonanGuimaraesKraemer.pdf](./TCCs/2017_1_RonanGuimaraesKraemer.pdf "2017_1_RonanGuimaraesKraemer.pdf")  
 
 ## 2017_2
 
-### GuilhermeMuriloRosa  
+### Guilherme Murilo da Rosa  
 
 Egg Avaliator: Ovoscopia Via Smartphone  
 [2017_2_GuilhermeMuriloRosa.pdf](./TCCs/2017_2_GuilhermeMuriloRosa.pdf "2017_2_GuilhermeMuriloRosa.pdf")  
 
-### KevinStortz  
+### Kevin Stortz  
 
 Biblioteca para Reconstrução de Relevos  
 [2017_2_KevinStortz.pdf](./TCCs/2017_2_KevinStortz.pdf "2017_2_KevinStortz.pdf")  
 [2017_2_KevinStortz.mp4](./TCCs/2017_2_KevinStortz.mp4 "2017_2_KevinStortz.mp4")  
 
-### RodrigoHeinzle  
+### Rodrigo Heinzle  
 
 Cogncook: Aplicativo para Reconhecimento de Imagens de Alimentos e Sugestões de Receitas Culinárias Utilizando Ingredientes Disponíveis  
 [2017_2_RodrigoHeinzle.pdf](./TCCs/2017_2_RodrigoHeinzle.pdf "2017_2_RodrigoHeinzle.pdf")  
 
 ## 2018_1
 
-### LeonardoLealOliveira  
+### Leonardo Leal Oliveira  
 
 Ferramenta de Indexação de Faces Humanas em Vídeos
 [2018_1_LeonardoLealOliveira.pdf](./TCCs/2018_1_LeonardoLealOliveira.pdf "2018_1_LeonardoLealOliveira.pdf")  
 [2018_1_LeonardoLealOliveira](./TCCs/2018_1_LeonardoLealOliveira/ "2018_1_LeonardoLealOliveira")  
 
-### LuanRibeiroSilva  
+### Luan Ribeiro da Silva  
 
 LIBRAR - Conceitos Básicos de Libras Usando Realidade Aumentada e Realidade Virtual  
 [2018_1_LuanRibeiroSilva.pdf](./TCCs/2018_1_LuanRibeiroSilva.pdf "2018_1_LuanRibeiroSilva.pdf")  
 [2018_1_LuanRibeiroSilva](./TCCs/2018_1_LuanRibeiroSilva/ "2018_1_LuanRibeiroSilva")  
 
-### LucasEduardoSchlogl  
+### Lucas Eduardo Schlögl
 
 Biblioteca para Detecção de Relevos Baseada em Luz Estruturada e Padrão de Projeção Binário  
 [2018_1_LucasEduardoSchlogl.pdf](./TCCs/2018_1_LucasEduardoSchlogl.pdf "2018_1_LucasEduardoSchlogl.pdf")  
 [2018_1_LucasEduardoSchlogl](./TCCs/2018_1_LucasEduardoSchlogl/ "2018_1_LucasEduardoSchlogl")  
 
-### RicardoFilipeReiter  
+### Ricardo Filipe Reiter  
 
 AnimAR: Desenvolvimento de uma Ferramenta para Criação de Animações com Realidade Aumentada e Interface Tangível  
 [2018_1_RicardoFilipeReiter.pdf](./TCCs/2018_1_RicardoFilipeReiter.pdf "2018_1_RicardoFilipeReiter.pdf")  
@@ -252,19 +252,19 @@ TransitAR: Conscientização Sobre Trânsito Usando Realidade Aumentada
 
 ## 2019_1
 
-### GabrielaBonifacioSena  
+### Gabriela Bonifácio de Sena  
 
 Aplicativo Android de Caderno Ortográfico Utilizando Reconhecimento de Escrita  
 [2019_1_GabrielaBonifacioSena.pdf](./TCCs/2019_1_GabrielaBonifacioSena.pdf "2019_1_GabrielaBonifacioSena.pdf")  
 [2019_1_GabrielaBonifacioSena.mp4](./TCCs/2019_1_GabrielaBonifacioSena.mp4 "2019_1_GabrielaBonifacioSena.mp4")  
 
-### RafaelLopesEscobar  
+### Rafael Lopes Escobar  
 
 Aplicativo para Reconhecimento de Curvas de Nível e Geração de Modelos 3D  
 [2019_1_RafaelLopesEscobar.pdf](./TCCs/2019_1_RafaelLopesEscobar.pdf "2019_1_RafaelLopesEscobar.pdf")  
 [2019_1_RafaelLopesEscobar.mp4](./TCCs/2019_1_RafaelLopesEscobar.mp4 "2019_1_RafaelLopesEscobar.mp4")  
 
-### RodrigoWernkePereira  
+### Rodrigo Wernke Pereira  
 
 ECOS-RA: Simulador de Ecossistemas Usando Realidade Aumentada  
 [2019_1_RodrigoWernkePereira.pdf](./TCCs/2019_1_RodrigoWernkePereira.pdf "2019_1_RodrigoWernkePereira.pdf")  
@@ -272,112 +272,112 @@ ECOS-RA: Simulador de Ecossistemas Usando Realidade Aumentada
 
 ## 2019_2
 
-### MaiconSantosSilva  
+### Maicon Santos da Silva  
 
 Projeto ARL: Uma Biblioteca para Compartilhamento de Objetos Utilizando Realidade Aumentada  
 [2019_2_MaiconSantosSilva.pdf](./TCCs/2019_2_MaiconSantosSilva.pdf "2019_2_MaiconSantosSilva.pdf")  
 
 ## 2021_1
 
-### BrunoGeislerVigentas  
+### Bruno Geisler Vigentas  
 
 FolhAR - Explorando Folhas de Plantas com Realidade Aumentada
 [2021_1_BrunoGeislerVigentas.pdf](./TCCs/2021_1_BrunoGeislerVigentas.pdf "2021_1_BrunoGeislerVigentas.pdf")  
 
 ## 2021_2
 
-### BrunoHenriqueBorba  
+### Bruno Henrique Borba  
 
 Aplicabilidade do Sensor LiDAR na Detecção de Ambientes e Objetos para Orientação de Pessoas com Deficiências Visuais
 [2021_2_BrunoHenriqueBorba.pdf](./TCCs/2021_2_BrunoHenriqueBorba.pdf "2021_2_BrunoHenriqueBorba.pdf")  
 
 ## 2022_1
 
-### GabrielLuisFernandoDeSouza  
+### Gabriel Luís Fernando de Souza  
 
 Desenvolvimento de uma Biblioteca para o uso do Sensor LiDAR em Dispositivos iOS  
 [2022_1_GabrielLuisFernandoDeSouza.pdf](./TCCs/2022_1_GabrielLuisFernandoDeSouza.pdf "2022_1_GabrielLuisFernandoDeSouza.pdf")  
 
-### MatheusMahnke  
+### Matheus Mahnke  
 
 Arquitetura para Navegação Autônoma Utilizando Drones  
 [2022_1_MatheusMahnke.pdf](./TCCs/2022_1_MatheusMahnke.pdf "2022_1_MatheusMahnke.pdf")  
 
 ## 2022_2
 
-### GuilhermeBarth  
+### Guilherme Barth  
 
 Aplicativo Móvel para Auxiliar Nna Orientação de Pessoas com Deficiência Visual Utilizando o Sensor LiDAR e o ML Kit
 [2022_2_GuilhermeBarth.pdf](./TCCs/2022_2_GuilhermeBarth.pdf "2022_2_GuilhermeBarth.pdf")  
 
 ## 2023_2
 
-### BrunoRicardoJunkes  
+### Bruno Ricardo Junkes  
 
 Explorando a Lógica de Programação Através de um Jogo com Auxílio da Realidade Aumentada  
 [2023_2_BrunoRicardoJunkes.pdf](./TCCs/2023_2_BrunoRicardoJunkes.pdf "2023_2_BrunoRicardoJunkes.pdf")  
 
-### JulioVicenteBrych  
+### Julio Vicente Brych  
 
 FossilAR: Explorando a Interação Tátil em Modelos 3D de Fósseis Através da Realidade Aumentada
 [2023_2_JulioVicenteBrych.pdf](./TCCs/2023_2_JulioVicenteBrych.pdf "2023_2_JulioVicenteBrych.pdf")  
 
 ## 2024_1
 
-### GiancarloCavalli  
+### Giancarlo Cavalli  
 
 QuimicAR - Desenvolvimento de Aplicativo de Realidade Aumentada para Auxílio ao Ensino de Ligações e Reações Químicas
 [2024_1_GiancarloCavalli.pdf](./TCCs/2024_1_GiancarloCavalli.pdf "2024_1_GiancarloCavalli.pdf")  
 
 ## 2024_2
 
-### GabrielOssamuRopelattoMori  
+### Gabriel Ossamu Ropelatto Mori  
 
 Aplicativo de Conscientização no Trânsito Utilizando Realidade Aumentada
 [2024_2_GabrielOssamuRopelattoMori.pdf](./TCCs/2024_2_GabrielOssamuRopelattoMori.pdf "2024_2_GabrielOssamuRopelattoMori.pdf")  
 
-### MarcellaCoelhoBritoNunes  
+### Marcella Coelho Brito Nunes  
 
 Body Go: Um Aplicativo de Realidade Aumentada para Ensino de Anatomia Humana
 [2024_2_MarcellaCoelhoBritoNunes.pdf](./TCCs/2024_2_MarcellaCoelhoBritoNunes.pdf "2024_2_MarcellaCoelhoBritoNunes.pdf")  
 
 ## 2025_1
 
-### LarsonKremerVicente  
+### Larson Kremer Vicente  
 
 AR Lab: Aplicativo de Realidade Aumentada para Auxiliar no Aprendizado dos Principais Equipamentos Utilizados em um Laboratório de Química
 [2025_1_LarsonKremerVicente.pdf](./TCCs/2025_1_LarsonKremerVicente.pdf "2025_1_LarsonKremerVicente.pdf")  
 
-### LeonardoOlianiFernandes  
+### Leonardo Oliani Fernandes  
 
 Expofritz Acessível: Aplicativo para Pessoas com Deficiência Visual
 [2025_1_LeonardoOlianiFernandes.pdf](./TCCs/2025_1_LeonardoOlianiFernandes.pdf "2025_1_LeonardoOlianiFernandes.pdf")  
 
 ## 2025_2
 
-### LuanLavandoskiGuarnieri  
+### Luan Lavandoski Guarnieri  
 
 Exploração Dinâmica de Ambientes Acadêmicos Utilizando Realidade Aumentada: Um Guia Virtual para A Furb
 [2025_2_LuanLavandoskiGuarnieri.pdf](./TCCs/2025_2_LuanLavandoskiGuarnieri.pdf "2025_2_LuanLavandoskiGuarnieri.pdf")  
 
-### MariaClaraFranca  
+### Maria Clara França  
 
 Espelho Virtual Interativo para Auxílio na Escolha de Looks e na Consultoria de Imagem  
 [2025_2_MariaClaraFranca.pdf](./TCCs/2025_2_MariaClaraFranca.pdf "2025_2_MariaClaraFranca.pdf")  
 
-### ViníciusMatiolaTramontin  
+### Vinícius Matiola Tramontin  
 
 Geo-AR: Um Aplicativo para Auxiliar Nno Ensino da Disciplina de Geometria Analítica Utilizando Realidade Aumentada
 [2025_2_ViníciusMatiolaTramontin.pdf](./TCCs/2025_2_ViníciusMatiolaTramontin.pdf "2025_2_ViníciusMatiolaTramontin.pdf")  
 
 ## 2026_1
 
-### AriEliasDaSilvaJunior  
+### Ari Elias da Silva Junior  
 
 O Uso da Realidade Aumentada para Ensino Intuitivo sobre Formações e Funções Táticas do Futebol
 [2026_1_AriEliasDaSilvaJunior.pdf](./TCCs/2026_1_AriEliasDaSilvaJunior.pdf "2026_1_AriEliasDaSilvaJunior.pdf")  
 
-### LuisFelipeDeCastilho  
+### Luis Felipe de Castilho  
 
 ARbit – Entre em Órbita com Realidade Aumentada
 [2026_1_LuisFelipeDeCastilho.pdf](./TCCs/2026_1_LuisFelipeDeCastilho.pdf "2026_1_LuisFelipeDeCastilho.pdf")  
