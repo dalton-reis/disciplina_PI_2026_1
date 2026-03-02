@@ -268,8 +268,8 @@ https://github.com/dalton-reis/BrunoGeislerVigentas/blob/06c2e3397822e1152ba292e
 
 ### BrunoHenriqueBorba  
 
-Explorar Digitalização 3D em Tempo Real Utilizando Recursos iOS  
-GIT: https://github.com/dalton-reis/BrunoHenriqueBorba  
+Aplicabilidade do Sensor LiDAR na Detecção de Ambientes e Objetos para Orientação de Pessoas com Deficiências Visuais
+[2021_2_BrunoHenriqueBorba.pdf](./TCCs/2021_2_BrunoHenriqueBorba.pdf "2021_2_BrunoHenriqueBorba.pdf")  
 
 ## 2022_1
 
