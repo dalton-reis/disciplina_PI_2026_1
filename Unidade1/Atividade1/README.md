@@ -360,8 +360,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY3NzAzNjUtNDhiYy00MDEyL
 
 ### LuisFelipeDeCastilho  
 
-ARbit – Entre em órbita com Realidade Aumentada  
-GIT: https://github.com/dalton-reis/LuisFelipeDeCastilho  
+[2026_1_LuisFelipeDeCastilho.pdf](./TCCs/2026_1_LuisFelipeDeCastilho.pdf "2026_1_LuisFelipeDeCastilho.pdf")  
 
 ### AriEliasDaSilvaJunior  
 
