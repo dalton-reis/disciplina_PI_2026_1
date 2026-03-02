@@ -352,14 +352,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5OGE3ZWItOTQ4MS00YTFiL
 
 ### ViníciusMatiolaTramontin  
 
+Geo-AR: Um Aplicativo para Auxiliar Nno Ensino da Disciplina de Geometria Analítica Utilizando Realidade Aumentada
 [2025_2_ViníciusMatiolaTramontin.pdf](./TCCs/2025_2_ViníciusMatiolaTramontin.pdf "2025_2_ViníciusMatiolaTramontin.pdf")  
 
 ## 2026_1
 
 ### AriEliasDaSilvaJunior  
 
+O Uso da Realidade Aumentada para Ensino Intuitivo sobre Formações e Funções Táticas do Futebol
 [2026_1_AriEliasDaSilvaJunior.pdf](./TCCs/2026_1_AriEliasDaSilvaJunior.pdf "2026_1_AriEliasDaSilvaJunior.pdf")  
 
 ### LuisFelipeDeCastilho  
 
+ARbit – Entre em Órbita com Realidade Aumentada
 [2026_1_LuisFelipeDeCastilho.pdf](./TCCs/2026_1_LuisFelipeDeCastilho.pdf "2026_1_LuisFelipeDeCastilho.pdf")  
