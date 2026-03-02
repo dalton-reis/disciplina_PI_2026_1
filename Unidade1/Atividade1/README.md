@@ -1,6 +1,6 @@
 # TCCs
 
-Entre esses [Trabalhos de Conclusão de Curso (TCC)](./TCCs/ "TCCs") da FURB, separe quais somente **usam** e **implementam** rotinas de Processamento de Imagens (PI). Para os TCCs do grupo **usam**, comente como PI foi utilizada. Já para o grupo **implementam**, além de comentar como PI foi utilizada, tente identificar qual linguagem de programação foi usada, se usou alguma biblioteca, quais dados foram utilizados, e se utilizou algum hardware *dedicado*, e quais itens do [Plano de Ensino](./TCCs/planoEnsino.md "Plano de Ensino") foram utilizados.
+Entre esses [Trabalhos de Conclusão de Curso (TCC)](./TCCs/ "TCCs") da FURB, separe quais somente **usam** e **implementam** rotinas de Processamento de Imagens (PI). Para os TCCs do grupo **usam**, comente como PI foi utilizada. Já para o grupo **implementam**, além de comentar como PI foi utilizada, tente identificar qual linguagem de programação foi usada, se usou alguma biblioteca, quais dados foram utilizados, e se utilizou algum hardware *dedicado*, e quais itens do [Plano de Ensino](./planoEnsino.md "Plano de Ensino") foram utilizados.
 
 ## 1999_2
 
