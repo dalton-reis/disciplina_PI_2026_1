@@ -289,8 +289,8 @@ GIT: https://github.com/dalton-reis/MatheusMahnke
 
 ### GuilhermeBarth  
 
-Óculos de Realidade Virtual para Auxiliar as Pessoas com Deficiência Visual a Transitarem em Lugares Aberto e Fechados  
-GIT: https://github.com/dalton-reis/GuilhermeBarth  
+Aplicativo Móvel para Auxiliar Nna Orientação de Pessoas com Deficiência Visual Utilizando o Sensor LiDAR e o ML Kit
+[2022_2_GuilhermeBarth.pdf](./TCCs/2022_2_GuilhermeBarth.pdf "2022_2_GuilhermeBarth.pdf")  
 
 ## 2023_2
 
